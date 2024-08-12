@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+출처: https://hulrud.tistory.com/3
+
 <!--
 **taehyunmandoo/taehyunmandoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=#3776AB" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

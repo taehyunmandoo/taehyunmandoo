@@ -14,4 +14,4 @@
 </p>
 
 ## 협업한 프로젝트
-- [Kyobo-CDA1-9900](https://github.com/KJH0476/Kyobo-CDA1-9900)
+- [Kyobo-CDA1-9900] Kyobo CDA. AWS를 활용한 글로벌 식당 예약 서비스(https://github.com/KJH0476/Kyobo-CDA1-9900)
